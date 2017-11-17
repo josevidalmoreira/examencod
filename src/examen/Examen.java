@@ -16,7 +16,7 @@ public class Examen {
      */
     public static void main(String[] args) {
         System.out.println(" realizo el segundo commit");
-        System.out.println("realizo el primer commit de la segunda rama");
+        System.out.println("realizo el segundo commit de la segunda rama");
     }
     
 }
